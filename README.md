@@ -1,4 +1,4 @@
-# baxter-school-management-system
-school management system codeigniter
+# sistema escolar
+school managemen system codeigniter
 # MisPequenosFilosofos1
 # peque-os
